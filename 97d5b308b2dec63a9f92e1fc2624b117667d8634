@@ -67,6 +67,23 @@
       "message": "test ccpp",
       "revId": "97d5b308b2dec63a9f92e1fc2624b117667d8634",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "704369f6_c92290fc",
+        "filename": "android/app/src/main/kotlin/com/example/upsvr/MainActivity.kt",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1020361
+      },
+      "writtenOn": "2022-07-22T17:05:28Z",
+      "side": 1,
+      "message": "test ccpp",
+      "revId": "97d5b308b2dec63a9f92e1fc2624b117667d8634",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     }
   ]
 }
