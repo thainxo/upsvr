@@ -20,6 +20,24 @@
     {
       "unresolved": false,
       "key": {
+        "uuid": "41b22de2_1635fa86",
+        "filename": "android/app/src/main/kotlin/com/example/upsvr/MainActivity.kt",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1020361
+      },
+      "writtenOn": "2022-07-23T17:12:59Z",
+      "side": 1,
+      "message": "s",
+      "parentUuid": "1fc273dc_f743dd62",
+      "revId": "97d5b308b2dec63a9f92e1fc2624b117667d8634",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": false,
+      "key": {
         "uuid": "c6570e8b_9dd5c68c",
         "filename": "android/app/src/main/kotlin/com/example/upsvr/MainActivity.kt",
         "patchSetId": 1
